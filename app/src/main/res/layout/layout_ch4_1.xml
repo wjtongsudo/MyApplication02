@@ -8,10 +8,11 @@
         android:text="button1"
         android:id="@+id/button1"
         android:layout_height="wrap_content" />
+
     <ImageView
-        android:layout_width="200dp"
         android:id="@+id/ch4_iv"
-        android:src="@raw/img"
-        android:layout_height="150dp" />
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:src="@raw/img" />
 
 </LinearLayout>

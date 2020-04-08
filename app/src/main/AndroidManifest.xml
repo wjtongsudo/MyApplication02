@@ -17,6 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".Main2Activity" />
+        <activity android:name=".CheckboxActivity" />
+        <activity android:name=".homeActivity" />
+        <activity android:name=".operation"></activity>
     </application>
 
 </manifest>
